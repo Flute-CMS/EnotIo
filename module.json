@@ -1,0 +1,8 @@
+{
+    "name": "EnotIo",
+    "version": "1.0.0",
+    "description": "Enot io payment integration",
+    "authors": ["leonardjke", "Flames"],
+    "providers": ["Flute\\Modules\\EnotIo\\ServiceProviders\\EnotIoServiceProvider"],
+    "dependencies": {}
+}
